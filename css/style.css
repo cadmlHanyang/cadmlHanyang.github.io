@@ -1,0 +1,46 @@
+html {
+  font-family: "Lato";
+}
+
+table {
+  text-align: left;
+  vertical-align: middle;
+  width: 100%
+
+}
+
+#cName {
+  width: 20%
+}
+
+#cResearch {
+  width: 50%
+}
+
+#cContact {
+  width: 30%
+}
+
+#cProject {
+  width: 20%
+}
+
+#cAim {
+  width: 80%
+}
+
+#rCategory {
+  font-weight: bold;
+  width: 100%
+}
+
+#tText {
+  text-align: justify;
+  width: 100%;
+}
+
+#tBottom {
+  text-align: center;
+  font-size: 70%;
+  width: 100%;
+}
