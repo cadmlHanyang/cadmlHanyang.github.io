@@ -53,11 +53,10 @@ table {
   font-size: 80%;
 }
 
-
-#rCategory {
+#cCategory {
   font-weight: bold;
-  width: 100%;
   font-size: 100%;
+  text-align: left;
 }
 
 #tText {
