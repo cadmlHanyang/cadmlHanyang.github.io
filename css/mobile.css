@@ -1,7 +1,7 @@
 body {
   font-family: 'Lato', sans-serif;
   font-size: 100%;
-  background-color: rgb(178, 178, 178);
+  /*background-color: rgb(178, 178, 178);*/
 }
 
 table {
@@ -59,7 +59,7 @@ table {
   width: 100%;
 }
 
-#mainDiv {
+/*#mainDiv {
   width: 60%;
   position: absolute;
   left: 20%;
@@ -70,5 +70,5 @@ table {
   box-shadow: 10px 10px 10px #888888;
   /*testing color*/
   /*border-color: rgb(255, 0, 0);*/
-}
+}*/
 
