@@ -1,6 +1,7 @@
-html {
+body {
   font-family: 'Lato', sans-serif;
   font-size: 100%;
+  background-color: rgb(178, 178, 178);
 }
 
 table {
@@ -30,6 +31,10 @@ table {
   width: 70%
 }
 
+#cHalf {
+  width: 50%
+}
+
 #rCategory {
   font-weight: bold;
   width: 100%
@@ -44,4 +49,13 @@ table {
   text-align: center;
   font-size: 70%;
   width: 100%;
+}
+
+#mainDiv {
+  width: 60%;
+  position: absolute;
+  left: 20%;
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-width: 2px 10px 4px 20px;
 }
