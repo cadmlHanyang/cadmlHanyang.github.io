@@ -12,7 +12,12 @@ table {
 }
 
 #cName {
-  width: 30%;
+  width: 29%;
+  font-size: 100%;
+}
+
+#cNormalize {
+  width: 1%
   font-size: 100%;
 }
 
@@ -27,7 +32,7 @@ table {
 }
 
 #cProject {
-  width: 30%;
+  width: 29%;
   font-size: 100%;
 }
 
