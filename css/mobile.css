@@ -1,0 +1,60 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 100%;
+  /*background-color: rgb(178, 178, 178);*/
+}
+
+table {
+  text-align: left;
+  vertical-align: middle;
+  width: 100%
+
+}
+
+#cName {
+  width: 30%
+}
+
+#cResearch {
+  width: 40%
+}
+
+#cContact {
+  width: 30%
+}
+
+#cProject {
+  width: 30%
+}
+
+#cAim {
+  width: 70%
+}
+
+#cHalf {
+  width: 50%
+}
+
+#cHalfItalic {
+  width: 50%;
+  text-align: right;
+  font-style: italic;
+  font-size: 80%;
+}
+
+
+#rCategory {
+  font-weight: bold;
+  width: 100%
+}
+
+#tText {
+  text-align: justify;
+  width: 100%;
+}
+
+#tBottom {
+  text-align: center;
+  font-size: 70%;
+  width: 100%;
+}
