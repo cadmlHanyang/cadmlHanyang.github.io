@@ -35,6 +35,14 @@ table {
   width: 50%
 }
 
+#cHalfItalic {
+  width: 50%;
+  text-align: right;
+  font-style: italic;
+  font-size: 80%;
+}
+
+
 #rCategory {
   font-weight: bold;
   width: 100%
@@ -62,3 +70,4 @@ table {
   /*testing color*/
   /*border-color: rgb(255, 0, 0);*/
 }
+
