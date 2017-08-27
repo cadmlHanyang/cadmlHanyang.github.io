@@ -1,7 +1,7 @@
 body {
   font-family: 'Lato', sans-serif;
   font-size: 100%;
-  /*background-color: rgb(178, 178, 178);*/
+  background-color: rgb(255, 255, 255);
 }
 
 table {
@@ -12,27 +12,33 @@ table {
 }
 
 #cName {
-  width: 30%
+  width: 30%;
+  font-size: 100%;
 }
 
 #cResearch {
-  width: 40%
+  width: 40%;
+  font-size: 100%;
 }
 
 #cContact {
-  width: 30%
+  width: 30%;
+  font-size: 100%;
 }
 
 #cProject {
-  width: 30%
+  width: 30%;
+  font-size: 100%;
 }
 
 #cAim {
-  width: 70%
+  width: 70%;
+  font-size: 100%;
 }
 
 #cHalf {
-  width: 50%
+  width: 50%;
+  font-size: 100%;
 }
 
 #cHalfItalic {
@@ -45,12 +51,14 @@ table {
 
 #rCategory {
   font-weight: bold;
-  width: 100%
+  width: 100%;
+  font-size: 100%;
 }
 
 #tText {
   text-align: justify;
   width: 100%;
+  font-size: 100%;
 }
 
 #tBottom {
